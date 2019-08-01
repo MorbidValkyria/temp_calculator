@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-/*
-
-*/
 
 namespace TemperatureConversion
 {
@@ -35,10 +31,7 @@ namespace TemperatureConversion
             _f = (_myConv * 9.0 / 5.0) + 32;
 
             Console.WriteLine("{0} C = {1} F and {2} K", _myConv, _f, _k);
-
-
         }
-
         public static void Fahrenheith()
         {
             do
@@ -57,12 +50,8 @@ namespace TemperatureConversion
             } while (_myAnswer);
             _c = 5.0 / 9.0 * (_myConv - 32);
             _k = 5.0 / 9.0 *(_myConv - 32) + 273;
-
-
             Console.WriteLine("{0} F = {1} C and {2} K", _myConv, _c, _k);
-
         }
-
         public static void Kelvin()
         {
             do{
@@ -82,11 +71,7 @@ namespace TemperatureConversion
             _c = _myConv - 273.15;
             _f = 9.0 / 5.0 * (_myConv - 273) + 32;
             Console.WriteLine("{0} K = {1} C and {2} F", _myConv, _c, _f);
-            
-
         }
-        
-
     }
     internal class Program
     {
