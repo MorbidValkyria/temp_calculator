@@ -1,0 +1,11 @@
+/home/francisco/TemperatureConversion/bin/Debug/netcoreapp2.2/TemperatureConversion.deps.json
+/home/francisco/TemperatureConversion/bin/Debug/netcoreapp2.2/TemperatureConversion.runtimeconfig.json
+/home/francisco/TemperatureConversion/bin/Debug/netcoreapp2.2/TemperatureConversion.runtimeconfig.dev.json
+/home/francisco/TemperatureConversion/bin/Debug/netcoreapp2.2/TemperatureConversion.dll
+/home/francisco/TemperatureConversion/bin/Debug/netcoreapp2.2/TemperatureConversion.pdb
+/home/francisco/TemperatureConversion/obj/Debug/netcoreapp2.2/TemperatureConversion.csprojAssemblyReference.cache
+/home/francisco/TemperatureConversion/obj/Debug/netcoreapp2.2/TemperatureConversion.csproj.CoreCompileInputs.cache
+/home/francisco/TemperatureConversion/obj/Debug/netcoreapp2.2/TemperatureConversion.AssemblyInfoInputs.cache
+/home/francisco/TemperatureConversion/obj/Debug/netcoreapp2.2/TemperatureConversion.AssemblyInfo.cs
+/home/francisco/TemperatureConversion/obj/Debug/netcoreapp2.2/TemperatureConversion.dll
+/home/francisco/TemperatureConversion/obj/Debug/netcoreapp2.2/TemperatureConversion.pdb
